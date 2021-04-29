@@ -2,6 +2,7 @@ gitの練習をします。
 
 #ディレクトリに移動する
 cd Desktop
+cd intro_git
 #.gitを作成する
 git init
 #フォルダの中身を確認する
